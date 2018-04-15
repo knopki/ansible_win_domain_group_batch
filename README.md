@@ -1,4 +1,4 @@
-# Ansible module win_domain_user_batch
+# Ansible module win_domain_group_batch
 
 ## Synopsis
 
